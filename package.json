@@ -1,0 +1,16 @@
+{
+  "name": "weather-proxy-server",
+  "version": "1.0.0",
+  "description": "기상청 API 프록시 서버",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.4.5"
+  }
+}
