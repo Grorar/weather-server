@@ -25,7 +25,7 @@ npm install
 ### 2. 환경 변수 설정
 `.env` 파일을 열어 인증키를 확인/수정:
 ```
-KMA_SERVICE_KEY=s4n2oW74TN-J9qFu-Dzf7Q
+KMA_SERVICE_KEY
 PORT=3000
 ```
 
